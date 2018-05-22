@@ -1,8 +1,8 @@
 <?php
 
-namespace Angejia\Thrift\Middleware;
+namespace Gclove\Thrift\Middleware;
 
-use Angejia\Thrift\Contracts\ThriftServer;
+use Gclove\Thrift\Contracts\ThriftServer;
 use Closure;
 use Illuminate\Http\Response;
 use Thrift\Transport\TMemoryBuffer;

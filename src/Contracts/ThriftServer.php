@@ -1,6 +1,6 @@
 <?php
 
-namespace Angejia\Thrift\Contracts;
+namespace Gclove\Thrift\Contracts;
 
 use Thrift\Transport\TTransport;
 
