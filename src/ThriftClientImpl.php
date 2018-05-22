@@ -1,8 +1,8 @@
 <?php
 
-namespace Angejia\Thrift;
+namespace Gclove\Thrift;
 
-use Angejia\Thrift\Contracts\ThriftClient;
+use Gclove\Thrift\Contracts\ThriftClient;
 use Illuminate\Contracts\Config\Repository;
 use Thrift\Protocol\TBinaryProtocolAccelerated;
 use Thrift\Protocol\TMultiplexedProtocol;
